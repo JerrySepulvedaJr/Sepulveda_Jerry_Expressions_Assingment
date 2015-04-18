@@ -14,11 +14,11 @@ var WeaponSpeed;  //setting up the weapon speed var
 
 // I'm setting up my prompts so I can get the users input data.
 
-MinimumWeaponDamage = prompt("Please enter the minimum damage of your weapon: ");  //setting up min damage prompt
+MinimumWeaponDamage = prompt("Please enter the minimum damage of your weapon: ");  //setting up the min damage prompt
 
-MaximumWeaponDamage = prompt("Please enter the maximum damage of your weapon: ");  //setting up max weapon damage prompt
+MaximumWeaponDamage = prompt("Please enter the maximum damage of your weapon: ");  //setting up the max weapon damage prompt
 
-WeaponSpeed = prompt("Please enter the speed of your weapon: ");  //setting up weapon speed prompt
+WeaponSpeed = prompt("Please enter the speed of your weapon: ");  //setting up the weapon speed prompt
 
 // I'm using the console.log to send the weapon data back to the user.
 
