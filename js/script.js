@@ -22,11 +22,11 @@ WeaponSpeed = prompt("Please enter the speed of your weapon: ");  //setting up t
 
 // I'm using the console.log to send the weapon data back to the user.
 
-console.log ("You entered the following minimum damage: "+ MinimumWeaponDamage + ".");  //console log with min damage data
+console.log ("You entered the following minimum damage: "+ MinimumWeaponDamage + ".");  //console log with the min damage data
 
-console.log ("You entered the following maximum damage: "+ MaximumWeaponDamage + ".");  //console log with max damage data
+console.log ("You entered the following maximum damage: "+ MaximumWeaponDamage + ".");  //console log with the max damage data
 
-console.log ("You entered the following weapon speed: "+ WeaponSpeed + ".");  // console log with weapon speed data
+console.log ("You entered the following weapon speed: "+ WeaponSpeed + ".");  // console log with the weapon speed data
 
 //  The Damage Per Second calculation is minimum weapon damage + maximum weapon damage, divided by 2, then divided by the weapon speed.
 
