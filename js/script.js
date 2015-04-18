@@ -6,13 +6,13 @@ alert("Are you ready to calculate the Damage per Second of your Weapon?");
 
 // I'm setting up my variables for my DPS calculator here.
 
-var MinimumWeaponDamage; //setting up min weapon damage var
+var MinimumWeaponDamage; //setting up the min weapon damage var
 
-var MaximumWeaponDamage; //setting up max weapon damage var
+var MaximumWeaponDamage; //setting up the max weapon damage var
 
-var WeaponSpeed;  //setting up weapon speed var
+var WeaponSpeed;  //setting up the weapon speed var
 
-// I'm setting up my prompts so I can get the users data.
+// I'm setting up my prompts so I can get the users input data.
 
 MinimumWeaponDamage = prompt("Please enter the minimum damage of your weapon: ");  //setting up min damage prompt
 
