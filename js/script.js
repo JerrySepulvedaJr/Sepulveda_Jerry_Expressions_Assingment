@@ -28,9 +28,9 @@ console.log ("You entered the following maximum damage: "+ MaximumWeaponDamage +
 
 console.log ("You entered the following weapon speed: "+ WeaponSpeed + ".");  // console log with the weapon speed data
 
-//  The Damage Per Second calculation is minimum weapon damage + maximum weapon damage, divided by 2, then divided by the weapon speed.
+//  The Damage Per Second calculation is the minimum weapon damage + maximum weapon damage, divided by 2, then divided by the weapon speed.
 
-var DPS; //setting up damage per second var and array
+var DPS; //setting up the damage per second var and array
 
 DPS = [MinimumWeaponDamage += MaximumWeaponDamage /2/WeaponSpeed];  //setting up damage per second math and array
 
@@ -38,7 +38,7 @@ console.log (DPS); //setting up console log to display DPS math
 
 alert ("Your damage per second is")  //setting up alert to display message to user
 
-alert (DPS); //setting up alert to display DPS math
+alert (DPS); //setting up the alert to display the DPS math after all user input.
 
 
 
